@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    height: 85px;
+    display: flex;
+    align-items: center;
+
+}
+
+.nav_header {
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.linknave {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 200px;
+}
+
+.orange {
+    color: rgb(227, 70, 13);
+}
+
+
+.conteudo{
+    display: flex;
+}
+
+
+
+.h1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.texto {
+    background-color: aqua;
+    height: 92px;
+    
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+
+}
+
+
+.botao {
+    color: brown;
+
+
+}
+
